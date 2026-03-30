@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.bluube.com/logo-white.png" alt="Bluube Logo" width="180" height="100">
+  <img src="https://cdn.bluube.com/logo-white.png" alt="Bluube Logo" width="220" height="130">
 </p>
 
 <p align="center">
