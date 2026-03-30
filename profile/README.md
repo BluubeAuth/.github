@@ -23,24 +23,5 @@
 | Rust       | [KeyAuth-Rust-Example](https://github.com/KeyAuth/KeyAuth-Rust-Example) |
 
 </td>
-<td valign="top">
-
-### 🤖 Bots
-
-| Platform | Bot Repo |
-|----------|----------|
-| Discord  | [KeyAuth-Discord-Bot](https://github.com/KeyAuth/KeyAuth-Discord-Bot) |
-| Telegram | [KeyAuth-Telegram-Bot](https://github.com/KeyAuth/KeyAuth-Telegram-Bot) |
-
-</td>
 </tr>
 </table>
-
----
-
-### 🌐 Quick Links
-- [Website](https://keyauth.cc)
-- [Telegram Updates & Chat](https://t.me/keyauth)
-- [Support Tickets](https://keyauth.cc/)
-- [YouTube Tutorials](https://youtube.com/keyauth)
-- [TikTok Tutorials](https://tiktok.com/@keyauth)
