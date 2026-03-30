@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.bluube.com/logo-white.png" alt="Bluube Logo" width="220" height="130">
+  <img src="https://cdn.bluube.com/logo-white.png" alt="Bluube Logo" width="230" height="130">
 </p>
 
 <p align="center">
@@ -8,7 +8,8 @@
 
 ---
 
-<table>
+<table align="center" style="border: 2px solid #ddd; border-radius: 10px; padding: 20px; max-width: 800px; width: 100%;">
+
 <tr>
 <td valign="top">
 
