@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.keyauth.cc/v2/assets/media/logos/logo-1-dark.png" alt="KeyAuth Logo" width="180" height="100">
+  <img src="https://cdn.bluube.com/logo-white.png" alt="Bluube Logo" width="180" height="100">
 </p>
 
 <p align="center">
