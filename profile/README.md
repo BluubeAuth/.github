@@ -17,11 +17,9 @@
 
 | Language   | Example Repo |
 |------------|--------------|
-| C#         | [KeyAuth-CSHARP-Example](https://github.com/KeyAuth/KeyAuth-CSHARP-Example) |
-| C++        | [KeyAuth-CPP-Example](https://github.com/KeyAuth/KeyAuth-CPP-Example) |
-| Python     | [KeyAuth-Python-Example](https://github.com/KeyAuth/KeyAuth-Python-Example) |
-| Lua        | [KeyAuth-Lua-Examples](https://github.com/mazkdevf/KeyAuth-Lua-Examples) |
-| Rust       | [KeyAuth-Rust-Example](https://github.com/KeyAuth/KeyAuth-Rust-Example) |
+| C#         | [Bluube-CSHARP-Example](https://github.com/KeyAuth/KeyAuth-CSHARP-Example) |
+| C++        | [Bluube-CPP-Example](https://github.com/KeyAuth/KeyAuth-CPP-Example) |
+| Python     | [Bluube-PYTHON-Example](https://github.com/KeyAuth/KeyAuth-Python-Example) |
 
 </td>
 </tr>
