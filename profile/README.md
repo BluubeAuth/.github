@@ -1,1 +1,46 @@
+<p align="center">
+  <img src="https://cdn.keyauth.cc/v2/assets/media/logos/logo-1-dark.png" alt="KeyAuth Logo" width="180" height="100">
+</p>
 
+<p align="center">
+  <b>Bluube</b> — Modern, secure, and easy-to-use authentication for applications, websites, games and more!
+</p>
+
+---
+
+<table>
+<tr>
+<td valign="top">
+
+### 🔑 Client SDKs
+
+| Language   | Example Repo |
+|------------|--------------|
+| C#         | [KeyAuth-CSHARP-Example](https://github.com/KeyAuth/KeyAuth-CSHARP-Example) |
+| C++        | [KeyAuth-CPP-Example](https://github.com/KeyAuth/KeyAuth-CPP-Example) |
+| Python     | [KeyAuth-Python-Example](https://github.com/KeyAuth/KeyAuth-Python-Example) |
+| Lua        | [KeyAuth-Lua-Examples](https://github.com/mazkdevf/KeyAuth-Lua-Examples) |
+| Rust       | [KeyAuth-Rust-Example](https://github.com/KeyAuth/KeyAuth-Rust-Example) |
+
+</td>
+<td valign="top">
+
+### 🤖 Bots
+
+| Platform | Bot Repo |
+|----------|----------|
+| Discord  | [KeyAuth-Discord-Bot](https://github.com/KeyAuth/KeyAuth-Discord-Bot) |
+| Telegram | [KeyAuth-Telegram-Bot](https://github.com/KeyAuth/KeyAuth-Telegram-Bot) |
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Quick Links
+- [Website](https://keyauth.cc)
+- [Telegram Updates & Chat](https://t.me/keyauth)
+- [Support Tickets](https://keyauth.cc/)
+- [YouTube Tutorials](https://youtube.com/keyauth)
+- [TikTok Tutorials](https://tiktok.com/@keyauth)
