@@ -17,9 +17,9 @@
 
 | Language   | Example Repo |
 |------------|--------------|
-| C#         | [Bluube-CSHARP-Example](https://github.com/KeyAuth/KeyAuth-CSHARP-Example) |
-| C++        | [Bluube-CPP-Example](https://github.com/KeyAuth/KeyAuth-CPP-Example) |
-| Python     | [Bluube-PYTHON-Example](https://github.com/KeyAuth/KeyAuth-Python-Example) |
+| C#         | [Bluube-CSHARP-Example](https://github.com/BluubeAuth/Bluube-CSHARP-Example) |
+| C++        | [Bluube-CPP-Example](https://github.com/BluubeAuth/Bluube-CPP-Example) |
+| Python     | [Bluube-PYTHON-Example](https://github.com/BluubeAuth/Bluube-Python-Example) |
 
 </td>
 </tr>
